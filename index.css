@@ -1,0 +1,32 @@
+.bg-color {
+	background-color: white;
+
+}
+
+.bg-nav {
+	background-color: #F5DEB3;
+}
+
+
+
+.text-color {
+	color: white;
+}
+
+.center {
+	padding: 200px 0;
+	text-align: center;
+}
+
+.right-nav {
+	float: right;
+	list-style: none;
+	text-align: justify;
+}
+
+.right-nav li {
+	display: inline-block;
+	padding: 10px;
+	margin-top: -20px;
+	color: white;
+}
